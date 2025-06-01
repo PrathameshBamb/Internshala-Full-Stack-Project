@@ -33,7 +33,7 @@ This repository contains a complete full‐stack web application built to satisf
 
 Follow these steps to run the project locally:
 
-### 1. Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/PrathameshBamb/Internshala-Full-Stack-Project.git
